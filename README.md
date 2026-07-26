@@ -56,15 +56,21 @@ Aspiring **Software Engineer** passionate about designing and developing modern,
 <p align="center">
 
 <a href="https://linkedin.com/in/sasangi-ranasingha-67b35b34a">
+
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 <a href="mailto:sasangihasadara@gmail.com">
+
 <img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
 
 <a href="https://portfolio-ksca-cyan.vercel.app/">
+
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+
 </a>
 
 </p>
@@ -108,16 +114,6 @@ Aspiring **Software Engineer** passionate about designing and developing modern,
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasangihasadara&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sasangihasadara&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
