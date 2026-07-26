@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasangi Hasadara</h1>
 
 <h3 align="center">
-💻 Full Stack Developer • 📱 Mobile App Developer • 🎨 UI/UX Enthusiast • 🇱🇰 IT Undergraduate
+💻 Full Stack Developer • 📱 Mobile App Developer • 🎨 UI/UX Enthusiast • IT Undergraduate
 </h3>
 
 <p align="center">
