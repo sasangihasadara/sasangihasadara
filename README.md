@@ -1,61 +1,52 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00C4FF;">Sasangi Hasadara</span></h1>
+<h1 align="center">Hi 👋, I'm Sasangi Hasadara</h1>
 
 <h3 align="center">
-💻 Full Stack Developer • 🎨 UI/UX Designer • 🇱🇰 Sri Lanka
+💻 Full Stack Developer • 🎨 UI/UX Enthusiast • 🇱🇰 IT Undergraduate
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=00C4FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Java;Building+Modern+Web+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;React+%7C+Java+%7C+Spring+Boot;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sasangihasadara&label=Profile%20Views&style=for-the-badge&color=0891b2"/>
-
-<img src="https://img.shields.io/github/followers/sasangihasadara?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/sasangihasadara?affiliations=OWNER&style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=sasangihasadara&label=Profile%20Views&style=for-the-badge&color=0891b2"/>
+  <img src="https://img.shields.io/github/followers/sasangihasadara?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/sasangihasadara?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SLIIT-Undergraduate-F97316?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Sri%20Lanka-22C55E?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SLIIT-Undergraduate-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-green?style=for-the-badge"/>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-```yaml
-Name: Sasangi Hasadara
+- 🎓 BSc (Hons) Information Technology Undergraduate at **SLIIT**
+- 💻 Passionate about **Full Stack Web Development**
+- 📱 Interested in **Web & Mobile Application Development**
+- 🎨 UI/UX Design Enthusiast
+- 💬 Ask me about **React, JavaScript, Java, PHP**
+- 📫 Email: **sasangihasadara@gmail.com**
+- 🌐 Portfolio: **https://portfolio-ksca-cyan.vercel.app/**
 
-Education:
-  - BSc (Hons) Information Technology
-  - Sri Lanka Institute of Information Technology (SLIIT)
+---
 
-Current Focus:
-  - Full Stack Development
-  - UI/UX Design
-  - Java & Spring Boot
+## 🎯 Current Focus
 
-Interests:
-  - Web Applications
-  - Mobile Development
-  - REST APIs
-  - Clean UI Design
+- 🌱 Learning **Java, Spring Boot, and Modern Backend Development**
+- 💻 Building **Full Stack Web Applications** with React & Java
+- 🎨 Enhancing **UI/UX Design** skills using Figma
+- 📱 Exploring **Mobile Application Development**
+- 🚀 Seeking **Software Engineering Internship Opportunities**
 
-Email:
-  - sasangihasadara@gmail.com
+---
 
-Portfolio:
-  - https://portfolio-ksca-cyan.vercel.app/
-```
+## 🎯 Career Goal
+
+💻 Aspiring **Software Engineer** passionate about designing and developing modern, scalable, and user-friendly web applications. I enjoy solving real-world problems through technology and continuously improving my technical and problem-solving skills while learning new tools and frameworks.
 
 ---
 
@@ -83,31 +74,33 @@ Portfolio:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,postgresql,php,html,css,js,tailwind,bootstrap,git,github,docker,figma,postman,vscode,androidstudio&perline=7"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,php,mongodb,mysql,postgresql,html,css,js,tailwind,bootstrap,c,cpp,docker,git,github,figma,postman,vscode,androidstudio&perline=8"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sasangihasadara&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sasangihasadara&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasangihasadara&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasangihasadara&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sasangihasadara&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sasangihasadara&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -127,42 +120,18 @@ Portfolio:
 
 ---
 
-# 💭 Dev Quote
+# 👀 Visitor Count
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://komarev.com/ghpvc/?username=sasangihasadara&label=Profile+Views&style=for-the-badge&color=0891b2"/>
 
 </p>
 
 ---
 
-# ⚡ Fun Fact
-
-```javascript
-const sasangi = {
-    code: ["Java", "JavaScript", "PHP", "React"],
-    passion: "Full Stack Development ❤️",
-    motto: "Learn • Build • Improve • Repeat 🚀"
-};
-
-while(true){
-    sasangi.learn();
-    sasangi.build();
-    sasangi.improve();
-}
-```
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my GitHub Profile ⭐
-
-</h3>
+<h3 align="center">⭐ Thanks for visiting my GitHub Profile! ⭐</h3>
 
 <p align="center">
-
 Made with ❤️ by <b>Sasangi Hasadara</b>
-
 </p>
