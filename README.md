@@ -1,28 +1,151 @@
 <h1 align="center">Hi 👋, I'm Sasangi Hasadara</h1>
-<h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasangihasadara&label=Profile%20views&color=0e75b6&style=flat" alt="sasangihasadara" /> </p>
+<h3 align="center">
+💻 Full Stack Developer | 🎨 UI/UX Enthusiast | 🇱🇰 IT Undergraduate
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasangihasadara" alt="sasangihasadara" /></a> </p>
-
-- 🌱 I’m currently learning **Java**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-ksca-cyan.vercel.app/](https://portfolio-ksca-cyan.vercel.app/)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **sasangihasadara@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in//sasangi-ranasingha-67b35b34a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/sasangi-ranasingha-67b35b34a/" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;React+%7C+Java+%7C+Spring+Boot;Always+Learning+New+Technologies;Building+Creative+Projects" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasangihasadara&show_icons=true&locale=en&layout=compact" alt="sasangihasadara" /></p>
+![](https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasangihasadara&show_icons=true&locale=en" alt="sasangihasadara" /></p>
+![](https://img.shields.io/badge/Sri%20Lanka-🇱🇰-green?style=for-the-badge)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasangihasadara&" alt="sasangihasadara" /></p>
+![](https://img.shields.io/badge/SLIIT-Undergraduate-orange?style=for-the-badge)
+
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 BSc (Hons) Information Technology Undergraduate at **SLIIT**
+- 💻 Passionate about Full Stack Web Development
+- 🌱 Currently learning **Java & Spring Boot**
+- 📱 Interested in Web & Mobile Application Development
+- 🎨 UI/UX Design Enthusiast
+- 💬 Ask me about **React, JavaScript, Java, PHP**
+- 📫 Reach me: **sasangihasadara@gmail.com**
+- 🌐 Portfolio: **https://portfolio-ksca-cyan.vercel.app/**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sasangi-ranasingha-67b35b34a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sasangihasadara@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-ksca-cyan.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,php,mongodb,mysql,postgresql,html,css,js,cpp,c,docker,git,github,figma,postman,androidstudio,vscode&perline=10"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasangihasadara&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasangihasadara&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sasangihasadara&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sasangihasadara&theme=algolia&margin-w=15&margin-h=15&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasangihasadara&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sasangihasadara&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ✨ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💡 Fun Fact
+
+```text
+while(alive){
+    Learn();
+    Build();
+    Improve();
+    Repeat();
+}
+```
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
+
+<p align="center">
+
+Made with ❤️ by <b>Sasangi Hasadara</b>
+
+</p>
