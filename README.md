@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sasangi Hasadara</h1>
 
 <h3 align="center">
-💻 Full Stack Developer • 🎨 UI/UX Enthusiast • 🇱🇰 IT Undergraduate
+💻 Full Stack Developer • 📱 Mobile App Developer • 🎨 UI/UX Enthusiast • 🇱🇰 IT Undergraduate
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;React+%7C+Java+%7C+Spring+Boot;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;React+%7C+Java+%7C+Spring+Boot;Mobile+App+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sasangihasadara&label=Profile%20Views&style=for-the-badge&color=0891b2"/>
-  <img src="https://img.shields.io/github/followers/sasangihasadara?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/sasangihasadara?affiliations=OWNER&style=for-the-badge"/>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SLIIT-Undergraduate-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Mobile-App%20Developer-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SLIIT-Undergraduate-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-green?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -26,27 +26,28 @@
 
 - 🎓 BSc (Hons) Information Technology Undergraduate at **SLIIT**
 - 💻 Passionate about **Full Stack Web Development**
-- 📱 Interested in **Web & Mobile Application Development**
+- 📱 Interested in **Mobile Application Development**
 - 🎨 UI/UX Design Enthusiast
-- 💬 Ask me about **React, JavaScript, Java, PHP**
-- 📫 Email: **sasangihasadara@gmail.com**
+- 🌱 Currently improving skills in **Java, Spring Boot & React Native**
+- 💬 Ask me about **React, JavaScript, Java, PHP, Kotlin**
+- 📧 Email: **sasangihasadara@gmail.com**
 - 🌐 Portfolio: **https://portfolio-ksca-cyan.vercel.app/**
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-- 🌱 Learning **Java, Spring Boot, and Modern Backend Development**
-- 💻 Building **Full Stack Web Applications** with React & Java
-- 🎨 Enhancing **UI/UX Design** skills using Figma
-- 📱 Exploring **Mobile Application Development**
-- 🚀 Seeking **Software Engineering Internship Opportunities**
+- 🌱 Learning **Java, Spring Boot & Backend Development**
+- 💻 Building **Full Stack Web Applications**
+- 📱 Developing **Android & React Native Mobile Applications**
+- 🎨 Improving **UI/UX Design Skills**
+- 🚀 Looking for **Software Engineering Internship Opportunities**
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
-💻 Aspiring **Software Engineer** passionate about designing and developing modern, scalable, and user-friendly web applications. I enjoy solving real-world problems through technology and continuously improving my technical and problem-solving skills while learning new tools and frameworks.
+Aspiring **Software Engineer** passionate about designing and developing modern, scalable, and user-friendly software solutions. I enjoy creating web and mobile applications while continuously improving my technical skills and exploring new technologies.
 
 ---
 
@@ -63,7 +64,7 @@
 </a>
 
 <a href="https://portfolio-ksca-cyan.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
@@ -74,7 +75,17 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,php,mongodb,mysql,postgresql,html,css,js,tailwind,bootstrap,c,cpp,docker,git,github,figma,postman,vscode,androidstudio&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,react,reactnative,nodejs,express,php,mongodb,mysql,postgresql,html,css,js,tailwind,bootstrap,c,cpp,docker,git,github,figma,postman,vscode,androidstudio&perline=8"/>
+
+</p>
+
+---
+
+# 🛠️ Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,gradle,gitlab,githubactions,linux,idea,eclipse&perline=8"/>
 
 </p>
 
@@ -83,9 +94,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
+
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sasangihasadara&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasangihasadara&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -120,18 +133,8 @@
 
 ---
 
-# 👀 Visitor Count
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sasangihasadara&label=Profile+Views&style=for-the-badge&color=0891b2"/>
+⭐ Thanks for visiting my GitHub Profile! ⭐
 
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my GitHub Profile! ⭐</h3>
-
-<p align="center">
-Made with ❤️ by <b>Sasangi Hasadara</b>
 </p>
