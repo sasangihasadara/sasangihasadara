@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sasangihasadara&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/sasangihasadara?label=Followers&style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/sasangihasadara?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/sasangihasadara?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -32,18 +32,10 @@
 - 🌱 Currently learning **Java, Spring Boot, React & React Native**
 - 💬 Ask me about **Java, JavaScript, React, PHP, Kotlin**
 - 🚀 Looking for **Software Engineering Internship Opportunities**
-- 📧 Email: **sasangihasadara@gmail.com**
-- 🌐 Portfolio: **https://portfolio-ksca-cyan.vercel.app/**
 
----
+📧 Email: **sasangihasadara@gmail.com**
 
-# 🎯 Current Focus
-
-- 💻 Full Stack Development
-- ⚙️ Backend Development with Spring Boot
-- 📱 Android & React Native Development
-- 🎨 UI/UX Design
-- ☁️ Learning Cloud Technologies
+🌐 Portfolio: **https://portfolio-ksca-cyan.vercel.app/**
 
 ---
 
@@ -109,16 +101,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sasangihasadara&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -129,18 +111,17 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 📌 Featured Projects
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sasangihasadara/sasangihasadara/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+- 🌐 **Portfolio Website**
+- 📱 **Android Mobile Applications**
+- 💻 **Full Stack Web Applications**
+- 🎨 **UI/UX Design Projects**
 
 ---
 
 <p align="center">
 
-⭐ <b>Thanks for visiting my GitHub Profile!</b> ⭐
+⭐ **Thanks for visiting my GitHub Profile!** ⭐
 
 </p>
