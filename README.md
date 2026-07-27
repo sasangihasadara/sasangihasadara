@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasangi Hasadara</h1>
 
 <h3 align="center">
-💻 Full Stack Developer • 📱 Mobile App Developer • 🎨 UI/UX Enthusiast • IT Undergraduate
+💻 Full Stack Developer • 📱 Mobile App Developer • 🎨 UI/UX Enthusiast • 🇱🇰 IT Undergraduate
 </h3>
 
 <p align="center">
@@ -9,15 +9,16 @@
 </p>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=sasangihasadara&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sasangihasadara?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/sasangihasadara?affiliations=OWNER&style=for-the-badge"/>
+</p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Mobile-App%20Developer-purple?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/SLIIT-Undergraduate-orange?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-green?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -28,8 +29,9 @@
 - 💻 Passionate about **Full Stack Web Development**
 - 📱 Interested in **Mobile Application Development**
 - 🎨 UI/UX Design Enthusiast
-- 🌱 Currently improving skills in **Java, Spring Boot & React Native**
-- 💬 Ask me about **React, JavaScript, Java, PHP, Kotlin**
+- 🌱 Currently learning **Java, Spring Boot, React & React Native**
+- 💬 Ask me about **Java, JavaScript, React, PHP, Kotlin**
+- 🚀 Looking for **Software Engineering Internship Opportunities**
 - 📧 Email: **sasangihasadara@gmail.com**
 - 🌐 Portfolio: **https://portfolio-ksca-cyan.vercel.app/**
 
@@ -37,17 +39,11 @@
 
 # 🎯 Current Focus
 
-- 🌱 Learning **Java, Spring Boot & Backend Development**
-- 💻 Building **Full Stack Web Applications**
-- 📱 Developing **Android & React Native Mobile Applications**
-- 🎨 Improving **UI/UX Design Skills**
-- 🚀 Looking for **Software Engineering Internship Opportunities**
-
----
-
-# 🎯 Career Goal
-
-Aspiring **Software Engineer** passionate about designing and developing modern, scalable, and user-friendly software solutions. I enjoy creating web and mobile applications while continuously improving my technical skills and exploring new technologies.
+- 💻 Full Stack Development
+- ⚙️ Backend Development with Spring Boot
+- 📱 Android & React Native Development
+- 🎨 UI/UX Design
+- ☁️ Learning Cloud Technologies
 
 ---
 
@@ -56,21 +52,15 @@ Aspiring **Software Engineer** passionate about designing and developing modern,
 <p align="center">
 
 <a href="https://linkedin.com/in/sasangi-ranasingha-67b35b34a">
-
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-
 </a>
 
 <a href="mailto:sasangihasadara@gmail.com">
-
 <img src="https://skillicons.dev/icons?i=gmail"/>
-
 </a>
 
 <a href="https://portfolio-ksca-cyan.vercel.app/">
-
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
-
 </a>
 
 </p>
@@ -101,9 +91,9 @@ Aspiring **Software Engineer** passionate about designing and developing modern,
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sasangihasadara&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasangihasadara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasangihasadara&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasangihasadara&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -113,7 +103,17 @@ Aspiring **Software Engineer** passionate about designing and developing modern,
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sasangihasadara&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sasangihasadara&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sasangihasadara&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
@@ -129,8 +129,18 @@ Aspiring **Software Engineer** passionate about designing and developing modern,
 
 ---
 
+# 🐍 Contribution Snake
+
 <p align="center">
 
-⭐ Thanks for visiting my GitHub Profile! ⭐
+<img src="https://raw.githubusercontent.com/sasangihasadara/sasangihasadara/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ <b>Thanks for visiting my GitHub Profile!</b> ⭐
 
 </p>
