@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasangi Hasadara</h1>
 
 <h3 align="center">
-💻 Full Stack Developer • 📱 Mobile App Developer • 🎨 UI/UX Enthusiast • 🇱🇰 IT Undergraduate
+💻 Full Stack Developer • 📱 Mobile App Developer • 🎨 UI/UX Enthusiast • IT Undergraduate
 </h3>
 
 <p align="center">
@@ -10,8 +10,6 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sasangihasadara&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/sasangihasadara?label=Followers&style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/sasangihasadara?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -30,12 +28,12 @@
 - 📱 Interested in **Mobile Application Development**
 - 🎨 UI/UX Design Enthusiast
 - 🌱 Currently learning **Java, Spring Boot, React & React Native**
-- 💬 Ask me about **Java, JavaScript, React, PHP, Kotlin**
+- 💬 Ask me about **React, JavaScript, Java, PHP, Kotlin**
 - 🚀 Looking for **Software Engineering Internship Opportunities**
 
-📧 Email: **sasangihasadara@gmail.com**
+📧 **Email:** sasangihasadara@gmail.com
 
-🌐 Portfolio: **https://portfolio-ksca-cyan.vercel.app/**
+🌐 **Portfolio:** https://portfolio-ksca-cyan.vercel.app/
 
 ---
 
@@ -83,9 +81,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasangihasadara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sasangihasadara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasangihasadara&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sasangihasadara&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -108,15 +106,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasangihasadara&theme=tokyo-night"/>
 
 </p>
-
----
-
-# 📌 Featured Projects
-
-- 🌐 **Portfolio Website**
-- 📱 **Android Mobile Applications**
-- 💻 **Full Stack Web Applications**
-- 🎨 **UI/UX Design Projects**
 
 ---
 
