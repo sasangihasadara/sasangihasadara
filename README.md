@@ -1,97 +1,70 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:0077B5&height=200&section=header&text=Sasangi%20Hasadara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=00C4FF&center=true&vCenter=true&width=600&lines=BSc+(Hons)+IT+Undergraduate+%40+SLIIT;Full+Stack+Developer+%7C+React+%2B+Spring+Boot;Mobile+App+Developer+%7C+React+Native+%2B+Kotlin;Open+to+Software+Engineering+Internships"/>
-
-<br>
-
+<h1 align="center">Hi 👋, I'm Sasangi Hasadara</h1>
+<h3 align="center">
+💻 Full Stack Developer • 📱 Mobile App Developer • 🎨 UI/UX Enthusiast • IT Undergraduate
+</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;React+%7C+Java+%7C+Spring+Boot;Mobile+App+Developer;Always+Learning+New+Technologies"/>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sasangihasadara&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mobile-App%20Developer-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SLIIT-Undergraduate-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-green?style=for-the-badge"/>
+</p>
+---
+# 👩‍💻 About Me
+- 🎓 BSc (Hons) Information Technology Undergraduate at **SLIIT**
+- 💻 Passionate about **Full Stack Web Development**
+- 📱 Interested in **Mobile Application Development**
+- 🎨 UI/UX Design Enthusiast
+- 🌱 Currently learning **Java, Spring Boot, React & React Native**
+- 💬 Ask me about **React, JavaScript, Java, PHP, Kotlin**
+- 🚀 Looking for **Software Engineering Internship Opportunities**
+📧 **Email:** sasangihasadara@gmail.com
+🌐 **Portfolio:** https://portfolio-ksca-cyan.vercel.app/
+---
+# 🌐 Connect With Me
+<p align="center">
 <a href="https://linkedin.com/in/sasangi-ranasingha-67b35b34a">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 <a href="mailto:sasangihasadara@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 <a href="https://portfolio-ksca-cyan.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=sasangihasadara&label=Profile%20Views&color=00C4FF&style=flat-square"/>
-
-</div>
-
-<br>
-
-## 👩‍💻 About Me
-
-I'm a **BSc (Hons) Information Technology** undergraduate at **SLIIT**, passionate about building clean, scalable full stack applications and intuitive mobile experiences.
-
-```
-const sasangi = {
-    role: "IT Undergraduate & Full Stack Developer",
-    university: "SLIIT",
-    stack: ["React", "Spring Boot", "React Native", "Kotlin"],
-    currentlyLearning: "Advanced Spring Boot & Mobile Architecture",
-    lookingFor: "Software Engineering Internship",
-    funFact: "I turn coffee ☕ into code 💻"
-};
-```
-
-<br>
-
-## 🧰 Tech Stack
-
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,php,js,html,css,c,cpp" />
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,reactnative,spring,nodejs,express,tailwind,bootstrap" />
-
-</td>
-<td valign="top" width="50%">
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,firebase,gradle,androidstudio,idea,eclipse,figma,postman,vscode,linux" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sasangihasadara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sasangihasadara&layout=compact&theme=tokyonight&hide_border=true"/>
-
+</p>
+---
+# 💻 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,react,reactnative,nodejs,express,php,mongodb,mysql,postgresql,html,css,js,tailwind,bootstrap,c,cpp,docker,git,github,figma,postman,vscode,androidstudio&perline=8"/>
+</p>
+---
+# 🛠️ Tools & Technologies
+<p align="center">
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,gradle,gitlab,githubactions,linux,idea,eclipse&perline=8"/>
+</p>
+---
+# 📊 GitHub Stats
+<p align="center">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sasangihasadara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sasangihasadara&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+---
+# 🔥 GitHub Streak
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=sasangihasadara&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasangihasadara&theme=tokyo-night" width="100%"/>
-
-</div>
-
-<br>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to collaborating on interesting projects or discussing internship opportunities.
-Feel free to reach out — I'd love to hear from you!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4FF&height=100&section=footer" width="100%"/>
-
-</div>
+</p>
+---
+# 📈 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasangihasadara&theme=tokyo-night"/>
+</p>
+---
+<p align="center">
+⭐ **Thanks for visiting my GitHub Profile!** ⭐
+</p>
