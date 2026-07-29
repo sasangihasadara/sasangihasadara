@@ -89,24 +89,10 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sasangihasadara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sasangihasadara&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=sasangihasadara&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -114,9 +100,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasangihasadara&theme=tokyo-night"/>
-
 </p>
 
 ---
